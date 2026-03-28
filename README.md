@@ -58,5 +58,5 @@ Cette architecture permet une visibilité totale sur l'infrastructure. Zabbix id
 
 ## Document technique
 
-[Cliquer ici pour télécharger le rapport de supervision complet (PDF)](zabbix+grafana+prometheus(Dylan))
+[Cliquer ici pour télécharger le rapport de supervision complet (PDF)](zabbix+grafana+prometheus%28Dylan%29.pdf)
 ```
